@@ -1,18 +1,20 @@
 ---
-title: Stratasys 450mc
+title: Fortus 450mc
 feed: show
+feedformat: list
 date: 2023-08-31
 permalink: /fortus450
 tags: machines
 ---
 
-![[Fortus 450mc.png|300]]^fortus450img
+![Fortus 450mc](assets/img/Fortus 450mc.png)
 
 #### Specs
-Technology:: Fused Filament Fabrication (FFF)
-Material_Type:: Thermoplastics
-Material_Format:: Filament
-Material_Names:: 
+Technology: Fused Filament Fabrication (FFF)
+
+Material_Type: Thermoplastics
+Material_Format: Filament
+Material_Names: 
 - PLA, 
 - ABS-M30, 
 - ABS-M30i, 
@@ -27,19 +29,19 @@ Material_Names::
 - ULTEM 1010 resin
 - ST-130 (sacrificial dissolvable material for making tubes, manifolds, etc.)
 
-Material_Cost:: ABS is $1.95/in<sup>3</sup>, 
-Printer_Size:: 51 x 35.5 x 78.1 in (129.5 cm x 90.2 cm x 198.4 cm)
-Build_Volume:: 16 x 14 x 16in (406 × 355 × 406 mm)
-Price:: $149,000
-Resolution:: .005 - .013 in layer thickness
-Link:: [Stratasys](https://www.stratasys.com/en/3d-printers/printer-catalog/fdm-printers/fortus-450mc/), [more information](https://www.stratasys.com/siteassets/3d-printers/printer-catalog/fdm-printers/fortus-450mc/pss_fdm_fortus450mc_0721a.pdf)
-Pros::
+Material_Cost: ABS is $1.95/in<sup>3</sup>, 
+Printer_Size: 51 x 35.5 x 78.1 in (129.5 cm x 90.2 cm x 198.4 cm)
+Build_Volume: 16 x 14 x 16in (406 × 355 × 406 mm)
+Price: $149,000
+Resolution: .005 - .013 in layer thickness
+Link: [Stratasys](https://www.stratasys.com/en/3d-printers/printer-catalog/fdm-printers/fortus-450mc/), [more information](https://www.stratasys.com/siteassets/3d-printers/printer-catalog/fdm-printers/fortus-450mc/pss_fdm_fortus450mc_0721a.pdf)
+Pros:
 - Upgrade in part size from the smaller Fortus 380mc
 - Upgrade in material options from the Fortus 380mc
 - Well engineered, reliable
 - Operation and maintenance are familiar because we've had the Fortus 380
 
-Cons::
+Cons:
 - Expensive to buy and support
 
 #### Description

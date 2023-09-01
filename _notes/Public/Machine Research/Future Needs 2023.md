@@ -52,8 +52,8 @@ A full comparison of material costs in the APL can be found [here](https://docs.
 ## New Hardware Picks
 
 ### Stratasys Fortus 450mc
-![[Fortus 450mc#^fortus450img]]
-![[Fortus 450mc#Specs]]
+
+[[Fortus 450mc]]
 
 ![[Fortus 450mc#Description]]
 

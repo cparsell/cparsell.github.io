@@ -6,7 +6,7 @@ permalink: /bigrepstudio
 tags: machines
 ---
 
-![[Pasted image 20230830161043.png|400]]
+![[bigrepstudio.png|400]]
 
 #### Specs
 Technology:: Fused Filament Fabrication (FFF)

@@ -6,7 +6,7 @@ permalink: /bambulabx1carbon
 tags: machines
 ---
 
-![[Bambu Lab X1-Carbon.png|300]] ^cf85ac
+![[BambuLabX1-Carbon.png|300]] ^cf85ac
 
 
 #### Specs

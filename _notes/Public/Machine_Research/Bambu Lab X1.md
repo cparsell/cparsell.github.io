@@ -7,7 +7,7 @@ tags: machines
 ---
 
 
-![[Bambu Lab X1.png]] ^2b9df2
+![[BambuLabX1.png]] ^2b9df2
 
 #### Specs
 Technology:: Fused Filament Fabrication (FFF)

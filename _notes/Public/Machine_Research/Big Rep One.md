@@ -6,7 +6,7 @@ permalink: /bigrepone
 tags: machines
 ---
 
-![[Pasted image 20230830161645.png|350]] ^7f8ce2
+![[bigrepone.png|350]] ^7f8ce2
 
 #### Specs
 Technology:: Fused Filament Fabrication (FFF)

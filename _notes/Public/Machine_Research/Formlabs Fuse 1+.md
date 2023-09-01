@@ -7,6 +7,7 @@ tags: machines
 ---
 
 ![[FormlabsFuse1.png|fuse1|inlR|200]] ^dc6bfb
+<img src="assets/img/FormlabsFuse1.png" width="200"/>
 
 #### Specs
 Technology:: **Selective Laser sintering (SLS)**

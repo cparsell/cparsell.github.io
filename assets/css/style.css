@@ -19,12 +19,32 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
     --color-bg-main: #1e1e2e; /* #262626 */
     --color-bg-sub: #18181C; /* */
-    --color-text-main: #cdd6f4; /* #FAFAFC; */
+    --color-text-main: blue; /* #cdd6f4; /* #FAFAFC; */
     --color-text-sub: #9399b2; /* #FFFEFF; */
     --color-text-link: #6D9EFF;
     --color-border-dark: #E6E6E6;
     --color-border: #696969;
     --color-border-light: #353535;
+    --base-h: 236 !important; 
+    --base-s: 24% !important; 
+    --base-l: 16%;
+    --accent-h: 270;
+    --accent-s: 60%;
+    --accent-l: 65% !important;
+    --tx1: hsl(
+        var(--base-h),
+        calc(var(--base-s) - 2%),
+        calc(var(--base-l) + 73%)
+        ) !important;
+    --tx2: hsl( var(--base-h),
+        calc(var(--base-s) - 15%),
+        calc(var(--base-l) + 55%)
+        ) !important;
+    --h1-color: hsla(
+        calc(var(--base-h) + 160),
+        calc(var(--base-s) + 34%),
+        calc(var(--base-l) + 50%),
+        1) !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -39,6 +59,27 @@ html[data-theme="dark"] {
     --color-border-dark: #E6E6E6;
     --color-border: #696969;
     --color-border-light: #353535;
+    --base-h: 236 !important; 
+    --base-s: 24% !important; 
+    --base-l: 16%;
+    --accent-h: 270;
+    --accent-s: 60%;
+    --accent-l: 65% !important;
+    --tx1: hsl(
+        var(--base-h),
+        calc(var(--base-s) - 2%),
+        calc(var(--base-l) + 73%)
+        ) !important;
+    --tx2: hsl( var(--base-h),
+        calc(var(--base-s) - 15%),
+        calc(var(--base-l) + 55%)
+        ) !important;
+    --h1-color: hsla(
+        calc(var(--base-h) + 160),
+        calc(var(--base-s) + 34%),
+        calc(var(--base-l) + 50%),
+        1) !important;
+        
     }
 
     html[data-theme="light"] {
@@ -51,6 +92,10 @@ html[data-theme="dark"] {
         --color-border: #BABCBD;
         --color-border-light: #E5E5E5;
     }
+    h1[data-theme="dark"] {
+    color: #f9e2af;
+}
+
 }
 
 :root {
@@ -86,16 +131,19 @@ h1 {
     font-weight: var(--text-weight-normal);
     padding: var(--padding-normal) 0;
 }
+h1[data-theme="dark"] {
+    color: #f9e2af;
+}
 
 h2 {
-    font-size: var(--text-xl);
+    font-size: var(--text-l);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-bold);
     padding: var(--padding-normal) 0;
 }
 
 h3 {
-    font-size: var(--text-xl);
+    font-size: var(--text-m);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     padding: var(--padding-normal) 0;

@@ -6,7 +6,7 @@ permalink: /markforgedonyxone
 tags: machines
 ---
 
-![[Markforged Onyx One.png|380]]^onyxoneimg
+![[MarkforgedOnyxOne.png|380]]^onyxoneimg
 
 #### Specs
 Technology::  Composite Fused Filament Fabrication (FFF)

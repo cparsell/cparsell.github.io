@@ -6,7 +6,7 @@ permalink: /form3l
 tags: machines
 ---
 
-![[Form 3L.png|400]] ^37b429
+![[Form3L.png|400]] ^37b429
 
 #### Specs
 Technology:: Stereolithography

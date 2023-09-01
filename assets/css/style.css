@@ -17,10 +17,10 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-bg-main: #262626;
-    --color-bg-sub: #18181C;
-    --color-text-main: #FAFAFC;
-    --color-text-sub: #FFFEFF;
+    --color-bg-main: #1e1e2e; /* #262626 */
+    --color-bg-sub: #18181C; /* */
+    --color-text-main: #cdd6f4; /* #FAFAFC; */
+    --color-text-sub: #9399b2; /* #FFFEFF; */
     --color-text-link: #6D9EFF;
     --color-border-dark: #E6E6E6;
     --color-border: #696969;
